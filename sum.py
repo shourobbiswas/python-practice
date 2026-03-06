@@ -1,4 +1,4 @@
 a=int(input("enter value for a : "))
 b=int(input("enter value for b : "))
-sum=a+b
-print("sum of these two number is " ,sum )
+Result=a+b
+print("sum of these two number is " ,Result )
